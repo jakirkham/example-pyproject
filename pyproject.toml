@@ -2,6 +2,6 @@
 name = "example-pyproject"
 version = "0.0.1a1"
 license = "MIT"
-author = [
+authors = [
     {name = "Maggie May", email = "maggie.may@gmail.com"}
 ]
